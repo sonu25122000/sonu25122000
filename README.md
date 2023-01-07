@@ -73,7 +73,7 @@ Hello stranger! my name is Sonu Kumar and I am a Full Stack Developer, passionat
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Sonu Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tushit99&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Sonu Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sonu25122000&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
