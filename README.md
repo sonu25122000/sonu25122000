@@ -22,8 +22,6 @@ Hello stranger! my name is Sonu Kumar and I am a Full Stack Developer, passionat
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📫 Reach me on **skg74827@gmail.com** 
-
 - 💬 ask me about anything, i am happy to help 
 
 - ⚡ Fun Fact: Imagination is more important than knowledge 
