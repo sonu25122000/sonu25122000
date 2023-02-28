@@ -65,7 +65,7 @@ Hello stranger! my name is Sonu Kumar and I am a Full Stack Developer, passionat
 </div>
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=sonu25122000&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=sonu25122000&_border=true&theme=dark&count_private=true&hide_border=true&theme=react" style="width: 40%" />
 
 </div>
 
